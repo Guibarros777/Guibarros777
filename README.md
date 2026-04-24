@@ -41,7 +41,7 @@ Alguns dos meus projetos mais legais:
 
 Adoraria conversar sobre tecnologia, projetos colaborativos ou apenas trocar ideias!
 
-- 📧 Email: guibegrmann7@gmail.com
+- 📧 Email: guibehrmann7@gmail.com
 - 💼 LinkedIn: [Seu LinkedIn]
 - 🐦 Twitter: [@SeuTwitter]
 - 🌐 Portfólio: [Seu Site]

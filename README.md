@@ -1,4 +1,4 @@
-# Olá, sou Gui Barros! 👋
+# Olá, sou Guilherme Barros! 👋
 
 Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por código limpo, inovação e resolver problemas através da tecnologia.
 

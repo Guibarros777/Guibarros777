@@ -21,7 +21,7 @@ Atualmente, dedico minha formação acadêmica e prática às seguintes competê
 - 🌐 Desenvolvimento Front-End Para Web
 - 💾 Modelagem de Banco de Dados
 
-Busco oportunidades de estágio ou posições juniores para aplicar minha lógica de programação, habilidades técnicas e visão de resolução de problemas em projetos reais de software. Sou desenvolvedor com foco em criar soluções escaláveis e eficientes. Adoro colaborar em projetos desafiadores e aprender constantemente com a comunidade.
+Busco oportunidades de estágio ou posições juniores para aplicar minha lógica de programação, habilidades técnicas e visão de resolução de problemas em projetos reais de software.
 
 ## 💻 O Que Faço
 
@@ -40,12 +40,18 @@ Banco de Dados: PostgreSQL, MongoDB, Redis
 Ferramentas: Git, Docker, Linux
 ```
 
-## 📚 Aprendizados em Progresso
+## 📚 Competências e Aprendizados
 
-- **Algoritmos e Pensamento Computacional** - Estruturas de dados, otimização e resolução de problemas
-- **Design Profissional** - UI/UX, prototipagem e design thinking
-- **Desenvolvimento Front-End Para Web** - Frameworks modernos e boas práticas
-- **Modelagem de Banco de Dados** - Normalização, ER e arquitetura de dados
+**Concluídos:** ✅
+- ✅ **Engenharia de Prompt e Aplicações em IA** - Técnicas de prompt engineering, design de interações com modelos de linguagem
+- ✅ **Interface e Jornada do Usuário** - UX/UI design, mapeamento de jornadas, experiência do usuário
+- ✅ **Prototipagem de Sistemas Computacionais** - Prototipagem, validação de conceitos, design de sistemas
+
+**Em Progresso:**
+- 🧠 **Algoritmos e Pensamento Computacional** - Estruturas de dados, otimização e resolução de problemas
+- 🎨 **Design Profissional** - UI/UX avançado, design thinking
+- 🌐 **Desenvolvimento Front-End Para Web** - Frameworks modernos e boas práticas
+- 💾 **Modelagem de Banco de Dados** - Normalização, ER e arquitetura de dados
 
 ## 📈 Estatísticas
 

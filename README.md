@@ -5,18 +5,23 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por código limp
 ## 🚀 Sobre Mim
 Estudante de Engenharia de Software na UDF, focado no desenvolvimento de soluções tecnológicas e na transição para a área de desenvolvimento de sistemas.
 
-Tenho experiência prática na indústria de tecnologia, atuando no setor de dispositivos eletrônicos com montagem, manutenção e diagnóstico de hardware para computadores, celulares e urnas eletrônicas. Essa vivência me deu uma forte base sobre o funcionamento dos sistemas desde a sua infraestrutura física.
+Tenho experiência prática na indústria de tecnologia, atuando no setor de dispositivos eletrônicos com montagem, manutenção e diagnóstico de hardware para computadores, celulares e urnas eletrônicas.
 
 Atualmente, dedico minha formação acadêmica e prática às seguintes competências:
 
-Linguagens e Programação: Python e Java
+**Linguagens e Programação:** Python e Java
 
-Banco de Dados: Conceitos de modelagem e manipulação de dados
+**Banco de Dados:** Conceitos de modelagem e manipulação de dados
 
-Produtividade e Análise: Domínio avançado do Pacote Office (Excel, Word, PowerPoint)
+**Produtividade e Análise:** Domínio avançado do Pacote Office (Excel, Word, PowerPoint)
 
-Busco oportunidades de estágio ou posições juniores para aplicar minha lógica de programação, habilidades técnicas e visão de resolução de problemas em projetos reais de software.
-Sou desenvolvedor com foco em criar soluções escaláveis e eficientes. Adoro colaborar em projetos desafiadores e aprender constantemente com a comunidade.
+**Em Aprendizado:** 
+- 🧠 Algoritmos e Pensamento Computacional
+- 🎨 Design Profissional
+- 🌐 Desenvolvimento Front-End Para Web
+- 💾 Modelagem de Banco de Dados
+
+Busco oportunidades de estágio ou posições juniores para aplicar minha lógica de programação, habilidades técnicas e visão de resolução de problemas em projetos reais de software. Sou desenvolvedor com foco em criar soluções escaláveis e eficientes. Adoro colaborar em projetos desafiadores e aprender constantemente com a comunidade.
 
 ## 💻 O Que Faço
 
@@ -34,6 +39,13 @@ Backend: Node.js, Express, Django
 Banco de Dados: PostgreSQL, MongoDB, Redis
 Ferramentas: Git, Docker, Linux
 ```
+
+## 📚 Aprendizados em Progresso
+
+- **Algoritmos e Pensamento Computacional** - Estruturas de dados, otimização e resolução de problemas
+- **Design Profissional** - UI/UX, prototipagem e design thinking
+- **Desenvolvimento Front-End Para Web** - Frameworks modernos e boas práticas
+- **Modelagem de Banco de Dados** - Normalização, ER e arquitetura de dados
 
 ## 📈 Estatísticas
 
@@ -54,7 +66,7 @@ Alguns dos meus projetos mais legais:
 Adoraria conversar sobre tecnologia, projetos colaborativos ou apenas trocar ideias!
 
 - 📧 Email: guibehrmann7@gmail.com
-- 💼 LinkedIn:(https://www.linkedin.com/in/jose-guilherme-behrmann-715430294/)
+- 💼 LinkedIn: https://www.linkedin.com/in/jose-guilherme-behrmann-715430294/
 - 🐦 Twitter: [@SeuTwitter]
 - 🌐 Portfólio: [Seu Site]
 

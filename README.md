@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por código limp
 ## 🚀 Sobre Mim
 Estudante de Engenharia de Software na UDF, focado no desenvolvimento de soluções tecnológicas e na transição para a área de desenvolvimento de sistemas.
 
-Tenho experiência prática na indústria de tecnologia, atuando no setor de dispositivos eletrônicos com montagem, manutenção e diagnóstico de hardware para computadores, celulares e urnas eletrônicas.
+Tenho experiência prática na indústria de tecnologia, atuando no setor de dispositivos eletrônicos com montagem, manutenção e diagnóstico de hardware para computadores, celulares e urnas ele[...]
 
 Atualmente, dedico minha formação acadêmica e prática às seguintes competências:
 
@@ -63,7 +63,7 @@ Ferramentas: Git, Docker, Linux
 
 Alguns dos meus projetos mais legais:
 
-- **[projetotech](./projetotech)** - Descrição breve do projeto
+- **[projetotech](https://github.com/Guibarros777/Engenharia_de_Prompt_Aplicacoes_AI/tree/ac5dbfb6b7dfcfed4d7fc80e5ac19e4904417c99/projetotech)** - Descrição breve do projeto (veja em Guibarros777/Engenharia_de_Prompt_Aplicacoes_AI/projetotech)
 - **[Projeto 1]** - Descrição breve do projeto
 - **[Projeto 2]** - Descrição breve do projeto
 - **[Projeto 3]** - Descrição breve do projeto

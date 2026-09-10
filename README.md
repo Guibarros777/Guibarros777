@@ -55,9 +55,9 @@ Ferramentas: Git, Docker, Linux
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guibarros777&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guibarros777&show_icons=true&theme=dark&hide_border=true)](https://github.com/Guibarros777)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guibarros777&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guibarros777&layout=compact&theme=dark&hide_border=true)](https://github.com/Guibarros777)
 
 ## 🎯 Projetos Destacados
 

@@ -63,8 +63,9 @@ Ferramentas: Git, Docker, Linux
 
 Alguns dos meus projetos mais legais:
 
-- **[projetotech](https://github.com/Guibarros777/Engenharia_de_Prompt_Aplicacoes_AI/tree/ac5dbfb6b7dfcfed4d7fc80e5ac19e4904417c99/projetotech)** - Descrição breve do projeto (veja em Guibarros777/Engenharia_de_Prompt_Aplicacoes_AI/projetotech)
-- **[Projeto 1]** - Descrição breve do projeto
+- **[projetotech](https://github.com/Guibarros777/Engenharia_de_Prompt_Aplicacoes_AI/tree/ac5dbfb6b7dfcfed4d7fc80e5ac19e4904417c99/projetotech)**
+- - (Descrição breve do projeto)
+- O HealthSchedule é uma aplicação web voltada ao público boêmio de Brasília que combina a busca por entretenimento noturno (bares, shows e estilos musicais por região e preço) com a conscientização e a promoção da redução de danos. Desenvolvido com uma abordagem No-Code/Low-Code (utilizando Bubble.io e Google AI Studio), o app permite filtrar locais, agendar visitas, gerar convites personalizados para o WhatsApp e monitorar metas essenciais de saúde durante o rolê — como consumo responsável de água, teto de gastos e transporte seguro.
 - **[Projeto 2]** - Descrição breve do projeto
 - **[Projeto 3]** - Descrição breve do projeto
 

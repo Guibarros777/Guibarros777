@@ -63,6 +63,7 @@ Ferramentas: Git, Docker, Linux
 
 Alguns dos meus projetos mais legais:
 
+- **[projetotech](./projetotech)** - Descrição breve do projeto
 - **[Projeto 1]** - Descrição breve do projeto
 - **[Projeto 2]** - Descrição breve do projeto
 - **[Projeto 3]** - Descrição breve do projeto
